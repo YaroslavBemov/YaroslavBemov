@@ -1,33 +1,58 @@
-### Hi there 👋
-I'm a Full-Stack Developer
+<h1>Hi there 👋</h1>
+I'm Yaroslav, tech enthusiast and full stack web developer.
+
+## Skills :muscle:
+Here are some of the major technologies I use or have worked on in the past, in descending order:
+
+**Programming Languages (and not very)**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="CSS3" alt="CSS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>|<img title="HTML5" alt="HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>|Object Pascal|Assembler
+|--|--|--|--|--|--|--|--|
+
+**Libraries and Frameworks**
+
+<img title="React" alt="React" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>|<img title="AdonisJS" alt="AdonisJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg"/>|<img title="Material UI" alt="Material UI" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
+|--|--|--|
+<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">|<img title="Redux" alt="Redux " width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
 <!--
-### I'm interested at the moment
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg
+raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg
+mobx.js.org/img/mobx.png
+raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg
+-->
+
+**Databases**
+
+<img title="PostgreSQL"  alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>|<img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">|<img title="MySQL"  alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+|--|--|--|--|
+
+**Cloud**
+
+<img title="Firebase" alt="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>|
+|--|
+
+**Tools**
+
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|<img title="VSCode" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">|<img title="SSH" alt="SSH" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">|<img title="Postman"  alt="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="Putty" alt="Putty" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
+|--|--|--|--|--|--|--|--|--|
 
 
-### also use&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
-
-### have experience&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="AdonisJS" alt="AdonisJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-
-
-### a long time ago&nbsp;
-Assembler, Object Pascal
-
-
-
+<!--
 **YaroslavBemov/YaroslavBemov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
